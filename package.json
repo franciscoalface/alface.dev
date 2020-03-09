@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gatsby": "^2.19.32",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "gatsby-plugin-manifest": "^2.2.44"
+  },
+  "devDependencies": {
+    "@eggheadio/gatsby-theme-egghead-blog": "^2.0.2"
+  }
+}
